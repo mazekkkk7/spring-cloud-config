@@ -1,0 +1,7 @@
+profile: dev-1.0-bus-refresh
+security:
+  basic:
+    enabled: true
+  user:
+    name: '{cipher}AQA0egkMkAxbLgo+/t29EnXyEPkafVSiSEC+HkjKrAZaG+bfz8DNu4v7OnxbN5eqJjpl4z7eQdOBdjX2ExcXPuvcpToR+88DVg9Dkjefc1BtC/S3XX4hJxNXdfc/vnu4GK9mpJLbLjwA1dfCC2Pa/lbGmiipotRJSPlcft0OTmeLsRVhH3jY+bQr73mnC5Q/eqXt3/AGs9rX9rbvNzkUOOWBxouZLnk31SZU0xvfGhLY6Z3JLMXotpoz2GmF+egmeHtbfmN93BRh3ucQrImlz4ptwGK5v/zik9FEYLIaIoptGsRIsWpFsLzrT6DdldpRK/N4kZeYRTBQPb+BlW0jt+I55um1s6YkmvBWyvSAjtBKlkAHiAVQGD8gFdyKJoqmYME='
+    password: '{cipher}AQBx48LvFnWQKFf+Fg6Lr0l/AR2bgszv95dgttRWzh9WJYTNvvBF7KuKyQWGQ038e0Bp9oRoD5EwZZvE7mbFuQYDMJpxzYknNpNoTDOnb4OxfkFpeGEqYlL6cmhUIM1IT6i8Rw79fe5S6OEiX5sCT6e1/RFemVCl1hD72b485Ip0zIJ7fjbT1sG4ORdiEQf0M7/Ck8+2CrLoi79L8SDVfkGYEzfRevVGfjiOOey2iXZ0RQuvXsMtqmMqD4O0/W/SG5E+PiSRI4grFhIz2BwVJI9y4/wylOm6B8V+6qfQEkJz9UgoUO3WxZ2M5dP0BWjLzlWQ033NNHwRtB7UJjyPpVpje+DcFo8JddtEEqWiz7ArjeeYwPH4ZG9GKE2Q6K1qJDs='
