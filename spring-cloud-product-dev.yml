@@ -4,3 +4,9 @@ spring:
     username: maze
     password: maze
     driver-class-name: com.mysql.jdbc.Driver
+security:
+  basic:
+    enabled: true
+  user:
+    name: user
+    password: 60361173a
