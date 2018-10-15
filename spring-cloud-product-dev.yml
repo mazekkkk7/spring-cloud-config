@@ -10,3 +10,9 @@ security:
   user:
     name: user
     password: 60361173a
+mybatis:
+  type-aliases-package: cn.mazekkkk.cloud.product.dao.mapper
+  mapper-locations: classpath:/mybatis/mapper/**/*.xml
+tm:
+  manager:
+    url: http://localhost:8899/tx/manager/
