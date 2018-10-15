@@ -16,3 +16,9 @@ mybatis:
 tm:
   manager:
     url: http://localhost:8899/tx/manager/
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://user:password123@localhost:8761/eureka/,http://user:password123@localhost:8762/eureka/
+  instance:
+    prefer-ip-address: true
