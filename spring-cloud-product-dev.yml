@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/mmcosm_dev
+    url: jdbc:mysql://localhost:3306/cloud_product
     username: maze
     password: maze
     driver-class-name: com.mysql.jdbc.Driver
