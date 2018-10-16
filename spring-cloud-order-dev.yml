@@ -1,5 +1,3 @@
-server:
-  port: 8088
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/mmcosm_dev
@@ -13,9 +11,9 @@ security:
     name: user
     password: 60361173a
 mybatis:
-  type-aliases-package: cn.mazekkkk.cloud.product.dao.mapper
+  type-aliases-package: cn.mazekkkk.cloud.order.dao.mapper
   mapper-locations: classpath:/mybatis/mapper/**/*.xml
-tm:k
+tm:
   manager:
     url: http://localhost:8899/tx/manager/
 eureka:
