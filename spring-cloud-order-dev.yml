@@ -4,12 +4,12 @@ spring:
     username: maze
     password: maze
     driver-class-name: com.mysql.jdbc.Driver
-# security:
-  # basic:
-  #   enabled: true
-  # user:
-  #   name: user
-  #   password: 60361173a
+security:
+  basic:
+    enabled: true
+  user:
+    name: user
+    password: 60361173a
 mybatis:
   type-aliases-package: cn.mazekkkk.cloud.order.dao.mapper
   mapper-locations: classpath:/mybatis/mapper/**/*.xml
