@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/cloud_product
+    url: jdbc:mysql://localhost:3306/cloud_order
     username: maze
     password: maze
     driver-class-name: com.mysql.jdbc.Driver
