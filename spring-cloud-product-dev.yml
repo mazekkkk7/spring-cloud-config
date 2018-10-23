@@ -28,3 +28,5 @@ hystrix:
       execution:
         timeout:
           enable: false
+logging:
+  level: com.codingapi=debug
