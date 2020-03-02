@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://192.168.99.1:3310/cloud_product
+    url: jdbc:mysql://192.168.99.1:3306/cloud_product
     username: root
     password: liugeyi
     driver-class-name: com.mysql.jdbc.Driver
